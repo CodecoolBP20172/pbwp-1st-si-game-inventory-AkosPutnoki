@@ -165,7 +165,7 @@ def main():
 
     print("\nFinally exporting this inventory to export_inventory.csv.\n"
           "You can find the file in the following directory:\n"
-          "/home/akos/codeLUL/si2/pbwp-1st-si-game-inventory-AkosPutnoki-master")
+          "/home/akos/codeLUL/git")
     export_inventory(inv, "export_inventory.csv")
 
 
